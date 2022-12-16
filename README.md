@@ -13,7 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nebinebili&show_icons=true&locale=en&layout=compact" alt="nebinebili" /></p>
 
-<p cellspacing="1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nebinebili&show_icons=true&locale=en" alt="nebinebili" /></p>
+<p style="padding-top: 50px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nebinebili&show_icons=true&locale=en" alt="nebinebili" /></p>
 
 
 
