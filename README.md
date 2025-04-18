@@ -21,11 +21,8 @@
 <a href="https://www.instagram.com/n.nabilii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SegFault#3998" height="30" width="40" /></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nebinebili/nebinebili/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nebinebili/nebinebili/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nebinebili/nebinebili/output/github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 
 
