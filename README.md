@@ -1,4 +1,4 @@
-<h3 align="left">Hi I'm Nabi from Azerbaijan<br>I am Software Developer</h3>
+<h3 align="left">Hi 👋 I'm Nabi from Azerbaijan<br>I am Software Developer</h3>
 
 ###
 
