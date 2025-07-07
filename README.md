@@ -50,9 +50,10 @@
   </a>
 </div>
 
-###
-
-<!-- Snake animation daha ölçülü şəkildə -->
-<img src="https://raw.githubusercontent.com/nebinebili/nebinebili/output/snake.svg" alt="Snake animation" width="100%" />
 
 ###
+
+<img src="https://raw.githubusercontent.com/nebinebili/nebinebili/output/snake.svg" alt="Snake animation" />
+
+###
+
